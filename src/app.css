@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #000000;
+    color: white;
+    min-height: 100vh;
+    height: 100vh;
+    overflow: hidden;
+}
+
+@font-face {
+    font-family: "dahlia-bold";
+    src: url('/font/dahlia-bold.otf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "dahlia-medium";
+    src: url('/font/dahlia-medium.otf');
+    font-display: swap;
+}
+@font-face {
+    font-family: "DMSans-regular";
+    src: url('/font/dahlia-regular.ttf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "DMSans-medium";
+    src: url('/font/DMSans-medium.ttf');
+    font-display: swap;
+}
