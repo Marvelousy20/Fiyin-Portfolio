@@ -11,7 +11,7 @@
 
 <main class="grid grid-cols-7 items-center justify-between lg:px-24 pt-12">
   <div class="col-span-3">
-    <img src="/fiyin.svg" alt="fiyin.png" />
+    <img src="/fiyin.svg" alt="fiyin.svg" class="w-[26.75rem] h-[26.75rem]" />
   </div>
   <div class="col-span-4">
     <h1 class="font-dahliaM xl:text-8xl">
